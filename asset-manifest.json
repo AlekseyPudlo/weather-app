@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.2cce8147.chunk.css",
-    "main.js": "/weather-app/static/js/main.cabb4bd9.chunk.js",
-    "main.js.map": "/weather-app/static/js/main.cabb4bd9.chunk.js.map",
+    "main.css": "/weather-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/weather-app/static/js/main.1577366c.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.1577366c.chunk.js.map",
     "runtime~main.js": "/weather-app/static/js/runtime~main.4606d7f5.js",
     "runtime~main.js.map": "/weather-app/static/js/runtime~main.4606d7f5.js.map",
-    "static/js/2.b41502e9.chunk.js": "/weather-app/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/weather-app/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.b0d4d72d.chunk.js": "/weather-app/static/js/2.b0d4d72d.chunk.js",
+    "static/js/2.b0d4d72d.chunk.js.map": "/weather-app/static/js/2.b0d4d72d.chunk.js.map",
     "index.html": "/weather-app/index.html",
-    "precache-manifest.13a56655990aeb431ad11b0251acbe71.js": "/weather-app/precache-manifest.13a56655990aeb431ad11b0251acbe71.js",
+    "precache-manifest.ebce101b0464a0ff86b0818c5cad40b7.js": "/weather-app/precache-manifest.ebce101b0464a0ff86b0818c5cad40b7.js",
     "service-worker.js": "/weather-app/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/weather-app/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/weather-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.34de6062.chunk.css.map": "/weather-app/static/css/main.34de6062.chunk.css.map"
   }
 }
